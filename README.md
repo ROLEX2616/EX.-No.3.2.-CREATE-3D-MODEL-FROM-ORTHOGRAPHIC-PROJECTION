@@ -43,6 +43,12 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 
+
+
+![WhatsApp Image 2023-12-13 at 9 27 33 PM (1)](https://github.com/ROLEX2616/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/149988469/0c69641c-1819-4019-b43c-5b2bf0e6a6a3)
+
+
+
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
 
